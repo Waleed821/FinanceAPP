@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Financial App</string>
+    <string name="financial_app">Financial App</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="enter_balance">Enter Balance</string>
+    <string name="add_balance">Add Balance</string>
+    <string name="subtract_balance">Subtract Balance</string>
+</resources>
